@@ -1,0 +1,7 @@
+dog
+cat
+car
+elephant
+truck
+tiger
+lion
